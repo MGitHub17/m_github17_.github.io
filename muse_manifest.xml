@@ -1,0 +1,60 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="finalproject.com" resolutions="1x" timestamp="1544201431167">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="gallery.css" crc="55803086" ref="gallery"/>
+    <file name="index.css" crc="3968244252" ref="index"/>
+    <file name="livingroom.css" crc="3968231593" ref="livingroom"/>
+    <file name="cafe.css" crc="145452198" ref="cafe"/>
+    <file name="bedroom.css" crc="60060236" ref="bedroom"/>
+  </folder>
+  <folder name="assets">
+    <file name="nycleftphoto.jpg" crc="3898922145" seo="true" mt="1542414165000"/>
+    <file name="nycmiddlephoto.jpg" crc="3758830616" seo="true" mt="1542414084000"/>
+    <file name="nycrightphoto.jpg" crc="3928197974" seo="true" mt="1543239194000"/>
+    <file name="buildingslookingdown.jpg" crc="3863362754" seo="true" mt="1542413713000"/>
+    <file name="dcflowerphoto.jpg" crc="3789452712" seo="true" mt="1542413743000"/>
+    <file name="whitehousephoto.jpg" crc="3878154059" seo="true" mt="1542413866000"/>
+    <file name="dcflowerphotowalk.jpg" crc="72210830" seo="true" mt="1542413780000"/>
+    <file name="flowerphoto3.jpg" crc="13707040" seo="true" mt="1542413888000"/>
+    <file name="sanibelsunsetphoto.jpg" crc="4292912986" seo="true" mt="1542413956000"/>
+    <file name="santamonicaphoto.jpg" crc="4043153757" seo="true" mt="1542414286000"/>
+    <file name="venicebeachphoto.jpg" crc="4290117615" seo="true" mt="1542414249000"/>
+    <file name="venicebeachwidephoto.jpg" crc="4153004583" seo="true" mt="1542414357000"/>
+    <file name="copyright.png" crc="523676781" seo="true" mt="1544017285000"/>
+    <file name="alarmclock.mp3" crc="4255236109" seo="true" mt="1543242910000"/>
+    <file name="livingroom.mp3" crc="372553137" seo="true" mt="1543243846000"/>
+    <file name="cafe.mp3" crc="190934248" seo="true" mt="1543243606000"/>
+    <file name="gallery.mp3" crc="107798499" seo="true" mt="1543243587000"/>
+    <file name="bedroom.mp3" crc="452632281" seo="true" mt="1543243672000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:livingroom:cafe:bedroom:gallery"/>
+    <file name="museutils.js" crc="4216313831" ref="index:livingroom:cafe:bedroom:gallery"/>
+    <file name="whatinput.js" crc="86476730" ref="index:livingroom:cafe:bedroom:gallery"/>
+    <file name="museconfig.js" crc="474374037" ref="index:livingroom:cafe:bedroom:gallery"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:livingroom:cafe:bedroom:gallery"/>
+    <file name="require.js" crc="3951022091" ref="index:livingroom:cafe:bedroom:gallery"/>
+  </folder>
+  <folder name="images">
+    <file name="alarmclockanimation.gif" crc="3996138644" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="livingroom.gif" crc="503591279" seo="true" ref="livingroom">
+      <caption webpage="livingroom" alt=""/>
+    </file>
+    <file name="cafe.gif" crc="374191903" seo="true" ref="cafe">
+      <caption webpage="cafe" alt=""/>
+    </file>
+    <file name="bedroom.gif" crc="505569269" seo="true" ref="bedroom">
+      <caption webpage="bedroom" alt=""/>
+    </file>
+    <file name="gallery.gif" crc="60424188" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4220342510" seo="true" mt="1544201025644" redirect="true"/>
+  <file name="livingroom.html" crc="60731162" seo="true" mt="1544200990384" redirect="true"/>
+  <file name="cafe.html" crc="437252281" seo="true" mt="1544200977937" redirect="true"/>
+  <file name="bedroom.html" crc="4177903061" seo="true" mt="1544200948963" redirect="true"/>
+  <file name="gallery.html" crc="4047535210" seo="true" mt="1544200958028" redirect="true"/>
+</manifest>
